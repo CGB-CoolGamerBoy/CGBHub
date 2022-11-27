@@ -37,7 +37,7 @@ LocalTab:AddSlider({
 LocalTab:AddSlider({
 	Name = "Jumppower",
 	Min = 50,
-	Max = 200,
+	Max = 500,
 	Default = 75,
     Save = true,
     Flag = "JumpPower_Slider",
