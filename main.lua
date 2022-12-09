@@ -241,6 +241,14 @@ local OptionsTab = Window:MakeTab({
 })
 
 OptionsTab:AddButton({
+	Name = "Destroy CGB",
+	Callback = function()
+		wait(5)
+		OrionLib:Destroy()
+	end
+})
+
+OptionsTab:AddButton({
 	Name = "Discord",
 	Callback = function()
       		setclipboard("https://discord.gg/8NbwAuBTjm")
