@@ -53,12 +53,28 @@ LocalTab:AddSlider({
 	end    
 })
 
+LocalTab:AddButton({
+	Name = "Aimbot & FOV",
+	Callback = function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/CGB-CoolGamerBoy/Scripts/main/CGB_Features/aimbot/aimbot.lua?token=GHSAT0AAAAAAB33GWW24QQXGT54JV54VTCMY4SV35A", true))()
+	end
+    
+})
+
 -- Options Menu
 
 local OptionsTab = Window:MakeTab({
 	Name = "Options",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
+})
+
+OptionsTab:AddButton({
+	Name = "Destroy CGB",
+	Callback = function()
+		wait(5)
+		OrionLib:Destroy()
+	end
 })
 
 OptionsTab:AddButton({
