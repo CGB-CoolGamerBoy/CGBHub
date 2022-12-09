@@ -224,8 +224,8 @@ LocalTab:AddSlider({
 	end    
 })
 
-Tab:AddToggle({
-	Name = "This is a toggle!",
+LocalTab:AddToggle({
+	Name = "Aimbot & FOV",
 	Default = false,
 	Callback = function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/CGB-CoolGamerBoy/Scripts/main/CGB_Features/aimbot/aimbot.lua?token=GHSAT0AAAAAAB33GWW24QQXGT54JV54VTCMY4SV35A", true))()
