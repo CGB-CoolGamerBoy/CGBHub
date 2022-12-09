@@ -1,8 +1,9 @@
 if syn then 
     rconsoleprint("@@LIGHT_BLUE@@")
     wait(5)
-    rconsoleprint("[CGB] Synapse-X Detected!")
+    rconsoleprint("[CGB] Synapse-X Detected! \n")
     rconsoleprint("")
+    rconsoleprint("Closing this tab will crash ROBLOX")
     wait(2)
     loadstring(game:HttpGet("https://github.com/CGB-CoolGamerBoy/CGB-Hub-Whitelist/raw/main/License_Loader.lua", true))()
     wait(2)
