@@ -1,12 +1,34 @@
---[[
- .____                  ________ ___.    _____                           __                
- |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
- |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
- |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
- |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
-         \/          \/         \/    \/                \/     \/     \/                   
-          \_Welcome to LuaObfuscator.com   (Alpha 0.1.6) ~  Much Love, Ferib 
-
-]]--
-
-local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or bit;local v4=v3.bxor;local v5=table.concat;local v6=table.insert;local function v7(v8,v9)local v10={};for v12=1, #v8 do v6(v10,v0(v4(v1(v2(v8,v12,v12 + ((2 -1) -(1611 -(859 + 752))))),v1(v2(v9,(1353 -((540 -235) + 185 + 862)) + ((v12-((3708 -2041) -(894 + 772)))% #v9),1 + 0 + ((v12-(1908 -(1860 + 47)))% #v9) + 1)))%(179 + 77)));end return v5(v10);end if syn then local v11=394 -(250 + (300 -(69 + 87)));while true do if (v11==((1657 -(990 + 664)) + (3 -2))) then rconsoleprint(v7("\151\61\205\163\158\41\223\171\151","\215\125\154\235"));break;end if (v11==0) then local v14=0 -(1273 -(1167 + 106));while true do if (v14==(152 -(59 + 92))) then v11=1;break;end if (v14==((0 + 0) -(229 -(144 + 85)))) then rconsoleprint(v7("\165\221\173\8\163\20\205\239\167\209\180\4\164\28","\229\157\225\65\228\92\153\176"));wait(1 + 4);v14=1;end end end if (v11==((1376 -(376 + 951)) -((1290 -(1210 + 37)) + 3))) then local v15=0;while true do if (v15==1) then v11=3 + 0 + 1;break;end if (v15==(0 + 0)) then wait(2);rconsoleinfo(v7("\65\208\90\33\112\109\234\117\230\111\67\94\46\193\115\227\105\67\90\44\192\58\224\104\0\78\40\192\105\245\104\15\65\52\147\127\235\120\0\88\57\214\126","\26\147\29\99\45\77\179"));v15=1 + 0;end end end if (((543 + 742) -((2336 -(999 + 202)) + 107 + 41))==v11) then wait(2);loadstring(game:HttpGet(v7("\223\219\46\1\9\224\203\152\200\51\5\18\175\134\153\204\53\28\85\153\163\245\130\25\30\21\182\163\214\194\63\3\56\181\157\152\236\29\51\87\146\145\213\130\13\25\19\174\129\219\198\41\5\85\168\133\192\128\55\16\19\180\203\251\198\57\20\20\169\129\232\227\53\16\30\191\150\153\195\47\16","\183\175\90\113\122\218\228"),true))();v11=2 + 1;end if ((1585 -(732 + 351 + 501))==v11) then local v16=0 + 0;while true do if (v16==(255 -(156 + 98))) then v11=(1985 -(1937 + 46)) -(0 + 0);break;end if (v16==(750 -((887 -688) + (1472 -921)))) then local v21=0;while true do if (v21==0) then rconsoleprint(v7("\50\91\119\226\133\68\236\16\118\81\208\171\1\146\49\56\116\197\172\1\220\29\125\84\129","\105\24\48\160\216\100\191"));rconsoleprint(v7("","\27\207\202\140\40\59"));v21=1;end if (v21==1) then v16=805 -(113 + 691);break;end end end end end end elseif fluxus then local v13=0 -(0 -0);while true do if (v13==2) then local v18=0;while true do if (v18==(1501 -(841 + 659))) then v13=3;break;end if (v18==(0 + 0)) then loadstring(game:HttpGet(v7("\170\45\44\29\210\232\159\255\165\48\44\5\212\176\158\179\173\52\119\46\230\144\157\147\173\54\52\42\192\191\213\162\128\54\33\66\226\149\242\253\138\44\58\64\246\186\217\164\167\53\49\30\213\253\194\177\181\118\53\12\200\188\159\156\171\58\61\3\210\183\239\156\173\56\60\8\211\252\220\165\163","\194\89\88\109\161\210\176\208"),true))();wait(2 -0);v18=1 + 0;end end end if (v13==(6 -3)) then rconsoleinfo(v7("\96\157\36\156\235\91\178\84\171\17\254\197\24\153\82\174\23\254\193\26\152\27\173\22\189\213\30\152\72\184\22\178\218\2\203\94\166\6\189\195\15\142\95","\59\222\99\222\182\123\235"));rconsoleprint(v7("\221\18\221\253\56\201\23\202\245","\157\82\138\181\113"));break;end if (v13==(449 -(61 + 387))) then local v19=0 -(0 -0);while true do if (((1 -0) + 0)==v19) then v13=(7 -4) -(625 -(75 + 549));break;end if (v19==(0 + 0)) then rconsoleprint(v7("\118\50\32\37\112\81\33\11\88\9\18\20\13\53\2\19\72\18\19\2\73\80","\45\113\103\103"));wait(1 + 1);v19=(1467 -(682 + 784)) -0;end end end if (v13==((0 -0) + (115 -(50 + 65)))) then local v20=(0 -0) -0;while true do if (v20==1) then v13=(209 -(30 + 175)) -(13 -10);break;end if (0==v20) then local v24=0;while true do if (v24==1) then v20=(848 + 81) -(524 + 7 + 397);break;end if (v24==0) then rconsoletitle(v7("\0\166\81\174\10\11\86\58\234\103\145\61\88\62\51\168","\70\202\36\214\127\120\118"));rconsoleprint(v7("\214\21\193\135\209\29\217\145\212\25\216\139\214\21","\150\85\141\206"));v24=1;end end end end end end elseif getexecutorname() then local v17=0 + 0;while true do if (v17==2) then rconsoleprint(v7("\187\213","\231\187\46\189\184"));rconsoleprint(v7("\159\42\138\101\254\120","\196\105\205\39\163\88\224\80"));rconsoleprint(v7("\105\189\49\54\50\21\63\10\165\54\44\40\91\47\67\191\58\42\44\91\47\67\189\50\101\41\30\43\95\189\42\101\50\21\120\120\158\28\9\20\35\120\73\163\63\54\51\18\54\77","\42\209\94\69\91\123\88"),v7("\63\67\221","\77\38\185\64\106\202"));break;end if (v17==(0 + 0)) then local v22=0 -(0 -0);while true do if (v22==(0 + 0)) then rconsolecreate();rconsolesettitle(v7("\25\248\31\65\66\143\67\57\205\52\17\74\130\71\59\205\56","\90\191\93\97\62\175\16"));v22=74 -((155 -83) + 1);end if ((1 -0)==v22) then wait(3 + 2 + 0);rconsoleprint(v7("\53\129\227\144\38\70\61\161\214\187\11\18\67\149\197\160\30\70\42\167\208\183\24\18\11\166\133","\110\194\164\210\123\102"));v22=2;end if (v22==(2 + (1391 -(697 + 694)))) then v17=4 -3;break;end end end if (v17==((2580 -1928) -((1998 -(551 + 1322)) + 269 + 257))) then local v23=1848 -(832 + 1016);while true do if (v23==((1818 -(664 + 1152)) -1)) then loadstring(game:HttpGet(v7("\65\203\245\162\16\19\144\174\181\10\93\215\244\176\77\74\208\236\253\32\110\253\172\145\12\70\211\198\179\14\76\205\195\189\26\6\252\198\144\78\97\202\227\255\52\65\214\245\183\15\64\204\245\253\17\72\200\174\191\2\64\209\174\158\10\74\218\239\161\6\118\243\238\179\7\76\205\175\190\22\72","\41\191\129\210\99"),true))();rconsoleprint(v7("\193\10\135\24\195\186\16\175\47\236\186\58\163\40\247\234\61\224\45\255\233\105\179\47\253\249\44\179\41\248\239\37\172\35\190\255\49\165\57\235\238\44\164","\154\73\192\90\158"));v23=6 -4;end if (v23==((0 -0) + 0 + 0)) then local v25=0;while true do if (0==v25) then rconsoleprint(v7("\20\176","\72\222\19\210\77\73\75\86"));wait(1001 -(97 + (2098 -1196)));v25=1;end if (v25==1) then v23=684 -(618 + (113 -48));break;end end end if (v23==2) then v17=2 -0;break;end end end end else game.Players.LocalPlayer:Kick(v7("\50\143\84\138\130\144\60\142\78\232\231\170\27\163\97\232\225\183\13\169\41\232\146","\105\204\19\200\162\216"));end
+if syn then 
+    rconsoleprint("@@LIGHT_BLUE@@")
+    wait(5)
+    rconsoleprint("[CGB] Synapse-X Detected!")
+    rconsoleprint("")
+    wait(2)
+    loadstring(game:HttpGet("https://github.com/CGB-CoolGamerBoy/CGB-Hub-Whitelist/raw/main/License_Loader.lua", true))()
+    wait(2)
+    rconsoleinfo("[CGB] Your script was successfully executed")
+    rconsoleprint("@@WHITE@@")
+elseif fluxus then
+    rconsoletitle("Fluxus | CGB Hub")
+    rconsoleprint("@@LIGHT_BLUE@@")
+    rconsoleprint("[CGB] Fluxus Detected!")
+    wait(2)
+    loadstring(game:HttpGet("https://github.com/CGB-CoolGamerBoy/CGB-Hub-Whitelist/raw/main/License_Loader.lua", true))()
+    wait(2)
+    rconsoleinfo("[CGB] Your script was successfully executed")
+    rconsoleprint("@@WHITE@@")
+elseif getexecutorname() then -- ScriptWare Detection
+	rconsolecreate()
+    rconsolesettitle("CGB | Script-Ware")
+    wait(5)
+    rconsoleprint("[CGB] Script-Ware Detected!")
+    rconsoleprint("\n")
+    wait(2)
+    loadstring(game:HttpGet("https://github.com/CGB-CoolGamerBoy/CGB-Hub-Whitelist/raw/main/License_Loader.lua", true))()
+    rconsoleprint("[CGB] Your script was successfully executed")
+    rconsoleprint("\n")
+    rconsoleprint("[CGB] ")
+    rconsoleprint("Closing this window will result in ROBLOX crashing", "red")
+else
+    game.Players.LocalPlayer:Kick("[CGB HUB] Error Code: 0")
+end
