@@ -18,12 +18,12 @@ local LocalTab = Window:MakeTab({
 LocalTab:AddSlider({
 	Name = "Walkspeed",
 	Min = 16,
-	Max = 100,
+	Max = 5000,
 	Default = 24,
     Save = true,
     Flag = "WalkSpeed_Slider",
 	Color = Color3.fromRGB(255,255,255),
-	Increment = 1,
+	Increment = 16,
 	ValueName = "Speed",
 	Callback = function(Value)
         local char = game.Players.LocalPlayer.Character or
@@ -37,12 +37,12 @@ LocalTab:AddSlider({
 LocalTab:AddSlider({
 	Name = "Jumppower",
 	Min = 50,
-	Max = 200,
-	Default = 75,
+	Max = 2000,
+	Default = 50,
     Save = true,
     Flag = "JumpPower_Slider",
 	Color = Color3.fromRGB(255,255,255),
-	Increment = 1,
+	Increment = 50,
 	ValueName = "JumpPower",
 	Callback = function(Value)
         local char = game.Players.LocalPlayer.Character or
