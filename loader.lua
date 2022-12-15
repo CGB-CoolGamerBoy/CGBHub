@@ -31,6 +31,15 @@ elseif getexecutorname() then -- ScriptWare Detection
     rconsoleprint("\n")
     rconsoleprint("[CGB] ")
     rconsoleprint("Closing this window will result in ROBLOX crashing", "red")
+elseif KRNL_LOADED then
+    rconsolename("Krnl | CGB")
+    rconsoleprint("@@LIGHT_BLUE@@")
+    rconsoleprint("[CGB] Krnl Detected!")
+    wait(2)
+    loadstring(game:HttpGet("https://github.com/CGB-CoolGamerBoy/CGB-Hub-Whitelist/raw/main/License_Loader.lua", true))()
+    wait(2)
+    rconsoleprint("[CGB] Your script was successfully executed")
+    rconsoleprint("@@WHITE@@")
 else
     game.Players.LocalPlayer:Kick("[CGB HUB] Error Code: 0")
 end
