@@ -1,1 +1,98 @@
-do do local FlatIdent_3A8D7=0;local v0;local v1;local v2;local v3;local v4;local v5;local v6;local v7;local v8;local v9;local v10;local v11;while true do if (FlatIdent_3A8D7==1) then v3=bit32 or bit;v4=v3.bxor;v5=table.concat;FlatIdent_3A8D7=2;end if (FlatIdent_3A8D7==2) then v6=table.insert;v7=nil;function v7(v12,v13)local FlatIdent_6AEE=0;local FlatIdent_67370;local v19;while true do if (FlatIdent_6AEE==0) then FlatIdent_67370=0;v19=nil;FlatIdent_6AEE=1;end if (FlatIdent_6AEE==1) then while true do local FlatIdent_5E631=0;while true do if (FlatIdent_5E631==0) then if (FlatIdent_67370==0) then local FlatIdent_4BF21=0;while true do if (FlatIdent_4BF21==0) then v19={};for v29=1, #v12 do v6(v19,v0(v4(v1(v2(v12,v29,v29 + 1 + 0)),v1(v2(v13,((1263 -(801 + 422)) -((809 -(417 + 377)) + 24)) + ((v29-(1173 -(748 + 424)))% #v13),(1 -(0 + 0)) + ((v29-(63 -(32 + 30)))% #v13) + 1)))%(188 + 21 + (397 -(212 + 138)))));end FlatIdent_4BF21=1;end if (1==FlatIdent_4BF21) then FlatIdent_67370=1;break;end end end if (FlatIdent_67370==1) then return v5(v19);end break;end end end break;end end end FlatIdent_3A8D7=3;end if (FlatIdent_3A8D7==3) then v8=loadstring(game:HttpGet(v7("\197\28\207\243\73\103\130\71\201\226\77\115\202\1\207\235\79\63\216\27\222\241\89\50\195\28\222\237\78\115\206\7\214\172\121\26\239\69\248\236\85\49\234\9\214\230\72\31\194\17\148\192\125\112\225\1\217\172\87\60\222\28\222\241\21\46\223\11\149\239\79\60","\173\104\187\131\58\93")))();v9=v8:Create({[v7("\140\25\163\5","\194\120\206\96\85\158")]=v7("\156\121\246\172\93\249\248","\223\62\180\140\21\140\154\146"),[v7("\227\78\194\11","\176\39\184\110\46\117\28\139")]=UDim2.fromOffset(600,(1623 -(224 + 1150)) + 36 + 115),[v7("\255\50\218\241\206","\171\90\191\156")]=v8.Themes.Dark,[v7("\241\69\164\15","\189\44\202\100\74")]=v7("\61\162\97\216\16\111\249\58\207\10\33\190\96\202\77\54\185\120\135\32\18\148\56\235\12\58\186\82\201\14\48\164\87\199\26\122\149\82\234\43\32\180","\85\214\21\168\99")});v10=v9:Tab({[v7("\56\190\198\229","\118\223\171\128\217")]=v7("\140\92\93\133\212\1\81\161\74\91\150","\192\51\62\228\184\81\61"),[v7("\94\237\169\121","\23\142\198\23")]=v7("\192\171\61\236\197\37\90\151\219\173\127\162\153\100\8\218\135\252\114\191\142\102\15","\178\201\69\141\182\86\63\227")});FlatIdent_3A8D7=4;end if (FlatIdent_3A8D7==0) then v0=string.char;v1=string.byte;v2=string.sub;FlatIdent_3A8D7=1;end if (FlatIdent_3A8D7==4) then v10:Slider({[v7("\49\140\228\192","\127\237\137\165\121")]=v7("\186\160\234\37\144\51\214\252\136\165","\237\193\134\78\176\96\166\153"),[v7("\159\189\40\37\91\228\175","\219\216\78\68\46\136")]=6 + 18,[v7("\44\43\255","\97\66\145\175\175\116")]=16,[v7("\247\133\83","\186\228\43\32\170\132\36\81")]=(1864 -(365 + 789)) -510,[v7("\16\58\48\129\247\25\35\179","\83\91\92\237\149\120\64\216")]=function(v14)local FlatIdent_59D61=0;local FlatIdent_78457;local v20;local v21;local v22;local v23;while true do if (FlatIdent_59D61==1) then v21=nil;v22=nil;FlatIdent_59D61=2;end if (FlatIdent_59D61==0) then FlatIdent_78457=0;v20=nil;FlatIdent_59D61=1;end if (FlatIdent_59D61==2) then v23=nil;while true do if (FlatIdent_78457==1) then local FlatIdent_8B628=0;while true do if (FlatIdent_8B628==0) then v22=nil;v23=nil;FlatIdent_8B628=1;end if (FlatIdent_8B628==1) then FlatIdent_78457=2;break;end end end if (FlatIdent_78457==0) then v20=0;v21=nil;FlatIdent_78457=1;end if (FlatIdent_78457==2) then while true do if (v20==0) then local FlatIdent_1B7EF=0;local FlatIdent_8C4D4;while true do if (FlatIdent_1B7EF==0) then FlatIdent_8C4D4=0;while true do if (FlatIdent_8C4D4==1) then v20=1;break;end if (FlatIdent_8C4D4==0) then local FlatIdent_F3EB=0;while true do if (FlatIdent_F3EB==0) then v21=1819 -(1818 + (1396 -(218 + 1177)));v22=nil;FlatIdent_F3EB=1;end if (FlatIdent_F3EB==1) then FlatIdent_8C4D4=1;break;end end end end break;end end end if (v20==1) then v23=nil;while true do if (v21==(0 -0)) then local FlatIdent_7AC61=0;while true do if (FlatIdent_7AC61==0) then v22=1128 -(538 + 120 + 470);v23=nil;FlatIdent_7AC61=1;end if (FlatIdent_7AC61==1) then v21=1 + 0;break;end end end if ((1505 -(663 + 841))==v21) then while true do if (v22==((1947 -(824 + 912)) -(46 + 25 + 13 + 127))) then v23=game.Players.LocalPlayer.Character or game.Players.LocalPlayer.CharacterAdded:Wait();if (v23 and v23:FindFirstChild(v7("\51\61\70\80\84\223\18\44","\123\72\43\49\58\176"))) then v23.Humanoid.WalkSpeed=v14;end break;end end break;end end break;end end break;end end break;end end end});v10:Slider({[v7("\106\234\57\91","\36\139\84\62\221\83\202\98")]=v7("\23\63\250\28\91\66\50\61\242\30","\93\74\151\108\123\18"),[v7("\12\122\125\56\66\189\204","\72\31\27\89\55\209\184")]=1790 -(470 + 1270),[v7("\86\69\41","\27\44\71\146\198")]=34 + 16,[v7("\206\221\33","\131\188\89\35\27\95\140")]=438 -(49 + 189),[v7("\9\204\218\201\37\226\41\198","\74\173\182\165\71\131")]=function(v15)local FlatIdent_5CC58=0;local FlatIdent_1605E;local v24;local v25;while true do if (FlatIdent_5CC58==0) then FlatIdent_1605E=0;v24=nil;FlatIdent_5CC58=1;end if (FlatIdent_5CC58==1) then v25=nil;while true do if (0==FlatIdent_1605E) then local FlatIdent_426BD=0;while true do if (FlatIdent_426BD==1) then FlatIdent_1605E=1;break;end if (FlatIdent_426BD==0) then v24=0;v25=nil;FlatIdent_426BD=1;end end end if (FlatIdent_1605E==1) then while true do if (v24==(0 + (0 -0))) then v25=game.Players.LocalPlayer.Character or game.Players.LocalPlayer.CharacterAdded:Wait();if (v25 and v25:FindFirstChild(v7("\155\151\94\209\189\141\90\212","\211\226\51\176"))) then v25.Humanoid.v30=v15;end break;end end break;end end break;end end end});v11=v9:Tab({[v7("\255\117\115\44","\177\20\30\73\151\133\28")]=v7("\183\187\240\216\106\44\239","\228\216\130\177\26\88\156"),[v7("\90\201\209\231","\19\170\190\137\232\115\188\119")]=v7("\149\174\14\243\34\47\161\147\165\18\168\126\115\245\214\249\65\162\105\101\241\211\249\79","\231\204\118\146\81\92\196")});FlatIdent_3A8D7=5;end if (FlatIdent_3A8D7==5) then v11:Button({[v7("\38\212\123\23","\104\181\22\114\36\23\203")]=v7("\44\230\11\245\9\56\121\245\14\234\22\254","\106\135\127\144\46\75\89\180"),[v7("\0\30\52\41\197\224\52\15\46\37\217","\68\123\71\74\183\137")]=v7("\39\25\222\58\8\30\205\63\70\60\204\54\15\19\136\24\9\16\197\58\8\25\219\123\33\40\225","\102\125\168\91"),[v7("\6\225\172\66\43\36\227\171","\69\128\192\46\73")]=function()local FlatIdent_77537=0;local v26;local v27;while true do if (FlatIdent_77537==0) then v26=0 + 0;v27=nil;FlatIdent_77537=1;end if (FlatIdent_77537==1) then while true do if (0==v26) then v27=0;while true do if (v27==(0 + 0 + 0)) then loadstring(game:HttpGet(v7("\89\63\36\236\66\113\127\179\86\34\36\244\68\41\126\255\94\38\127\223\118\9\125\223\94\36\60\219\80\38\53\238\115\36\41\179\98\40\34\245\65\63\35\179\67\42\39\179\92\42\57\242\30\30\62\245\71\46\34\239\80\39\127\250\80\63\53\239\80\47\61\245\95\101\60\233\80","\49\75\80\156"),true))();SendNotification(v7("\160\27\192\106\171\41\224\106\159\124\196\43\151\57\165\57\195\29\230\39\138\50","\227\92\130\74"),v7("\44\75\113\201\40\59\108\221\10\82\126\211\109\13\103\222\28\75\102\207\41\104\89\218\11\91\53\217\109\9\123\214\22\80","\127\62\18\170\77\72\31\187"),5);break;end end break;end end break;end end end});v11:Button({[v7("\6\36\113\3","\72\69\28\102\150\156\124")]=v7("\249\220\221\249\230\220\218\214","\175\165\179\144\158\181"),[v7("\146\55\38\244\164\59\37\227\191\61\59","\214\82\85\151")]=v7("\215\97\20\52\22\232\109\9\125\38\244\122\90\33\78\204\121\20\36\78\210\109\10\45\1\243\108\31\57\78\198\121\23\56\29","\129\24\122\93\110"),[v7("\139\60\30\73\28\20\171\54","\200\93\114\37\126\117")]=function()local FlatIdent_53C19=0;local v28;while true do if (FlatIdent_53C19==0) then v28=(990 -(73 + 75)) -(741 + 39 + 62);while true do if (v28==(545 -(104 + 441))) then loadstring(game:HttpGet(v7("\15\28\75\221\66\125\182\72\15\86\217\89\50\251\73\11\80\192\30\4\222\37\69\124\194\94\43\222\6\5\90\223\115\40\224\72\59\92\223\88\55\237\20\71\77\204\70\104\244\6\1\81\130\98\36\235\14\24\75\242\121\50\251\20\71\105\212\95\46\225\14\29\76\242\125\40\248\3\13\77\131\93\50\248","\103\104\63\173\49\71\153"),true))();SendNotification(v7("\142\253\205\109\157\61\120\245\177\154\217\52\187\33\98\188\184\201","\205\186\143\77\213\72\26\213"),v7("\207\47\18\8\169\171\173\250\47\29\7\181\248\187\228\63\18\30\184\189\186\188\12\8\5\165\160\183\233\41","\156\90\113\107\204\216\222"),10 -5);break;end end break;end end end});function SendNotification(v16,v17,v18)v9:Notification({[v7("\37\213\171\174\10","\113\188\223\194\111\91")]=v16,[v7("\70\192\88\188","\18\165\32\200\211\93\43\96")]=v17,[v7("\44\227\82\208\106\244\7\248","\104\150\32\177\30\157")]=v18,[v7("\220\196\63\200\75\56\251\244","\159\165\83\164\41\89\152")]=do local FlatIdent_6AEE=0;local FlatIdent_67370;local v19;while true do if (FlatIdent_6AEE==0) then FlatIdent_67370=0;v19=nil;FlatIdent_6AEE=1;end if (FlatIdent_6AEE==1) then while true do local FlatIdent_5E631=0;while true do if (FlatIdent_5E631==0) then if (FlatIdent_67370==0) then local FlatIdent_4BF21=0;while true do if (FlatIdent_4BF21==0) then v19={};for v29=1, #v12 do v6(v19,v0(v4(v1(v2(v12,v29,v29 + 1 + 0)),v1(v2(v13,((1263 -(801 + 422)) -((809 -(417 + 377)) + 24)) + ((v29-(1173 -(748 + 424)))% #v13),(1 -(0 + 0)) + ((v29-(63 -(32 + 30)))% #v13) + 1)))%(188 + 21 + (397 -(212 + 138)))));end FlatIdent_4BF21=1;end if (1==FlatIdent_4BF21) then FlatIdent_67370=1;break;end end end if (FlatIdent_67370==1) then return v5(v19);end break;end end end break;end end end});end break;end end end end
+local CgLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/CGB-CoolGamerBoy/CG-Lib/master/src.lua"))()
+
+local GUI = CgLib:Create{
+    Name = "CGB Hub",
+    Size = UDim2.fromOffset(600, 400),
+    Theme = CgLib.Themes.Dark,
+    Link = "https://github.com/CGB-CoolGamerBoy/CGBHub"
+}
+
+--[[
+        LocalPlayer
+]]--
+
+local LocalTab = GUI:Tab{
+	Name = "LocalPlayer",
+	Icon = "rbxassetid://2795572800"
+}
+
+LocalTab:Slider{
+	Name = "Walk Speed",
+	Default = 24,
+	Min = 16,
+	Max = 200,
+	Callback = function(Value) 
+		local char = game.Players.LocalPlayer.Character or
+                         game.Players.LocalPlayer.CharacterAdded:Wait()
+        if char and char:FindFirstChild('Humanoid') then
+            char.Humanoid.WalkSpeed = Value
+        end
+    end
+}
+
+LocalTab:Slider{
+	Name = "Jump Power",
+	Default = 50,
+	Min = 50,
+	Max = 200,
+	Callback = function(Value)
+		local char = game.Players.LocalPlayer.Character or
+                         game.Players.LocalPlayer.CharacterAdded:Wait()
+        if char and char:FindFirstChild('Humanoid') then
+            char.Humanoid.JumpPower = Value
+        end
+	end
+}
+
+
+
+--[[
+        Scripts
+]]--
+
+local ScriptsTab = GUI:Tab{
+	Name = "Scripts",
+	Icon = "rbxassetid://11570895459"
+}
+
+ScriptsTab:Button{
+	Name = "Fate's Admin",
+	Description = "Advanced Admin Commands GUI",
+	Callback = function()
+		loadstring(game:HttpGet("https://github.com/CGB-CoolGamerBoy/Scripts/raw/main/Universal/fatesadmin.lua", true))()
+		SendNotification(
+			"CGB Hub | Fate's Admin",
+			"Successfully Executed Fate's Admin",
+			5
+		)
+	end
+}
+
+ScriptsTab:Button{
+	Name = "Vynixius",
+	Description = "Vynixius Hub | Many Supported Games",
+	Callback = function()
+		loadstring(game:HttpGet("https://github.com/CGB-CoolGamerBoy/Scripts/raw/main/Script_Hubs/Vynixius_Loader.lua", true))()
+		SendNotification(
+			"CGB Hub | Vynixius",
+			"Successfully executed Vynixius",
+			5
+		)
+
+	end
+}
+
+--[[
+	Functions
+]]--
+
+function SendNotification(Title, Text, Duration)
+	GUI:Notification{
+		Title = Title,
+		Text = Text,
+		Duration = Duration,
+		Callback = function() 
+			
+		end
+	}
+end
