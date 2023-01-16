@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://CGB-CoolGamerBoy.github.io/CGB-CoolGamerBoy/CGBHub/CGBHub.lua"))()
